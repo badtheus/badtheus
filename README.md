@@ -1,6 +1,6 @@
 ### Oi eu sou o Badtheus (Matheus) ✌️
 
-- 🌱 I’m currently learning HTML 5 and CSS 3
+- 🌱 I’m currently learning HTML 5, CSS 3 and JavaScrip !!
 - 💬 Ask me about anything 🙂
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: OnePiece fan and gamerlover
