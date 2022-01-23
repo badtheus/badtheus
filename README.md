@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning HTML 5, CSS 3 and JavaScript !!
 - 💬 Ask me about anything 🙂
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him // 🏳️‍🌈
 - ⚡ Fun fact: OnePiece fan and gamerlover
 ##
 
