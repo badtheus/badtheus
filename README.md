@@ -1,9 +1,9 @@
 ### Oi eu sou o Matheus ✌️
 
-- 🌱 I’m currently learning HTML 5, CSS 3 and JavaScript !!
+- 🌱 I’m currently learning HTML 5, CSS 3, JavaScript and Java!!
 - 💬 Ask me about anything 🙂
 - 😄 Pronouns: He/Him // 🏳️‍🌈
-- ⚡ Fun fact: OnePiece fan and gamerlover
+- ⚡ Fun fact: I'm a fan of music, pop culture, anime, and games.
 ##
   
   ##
