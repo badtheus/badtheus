@@ -1,4 +1,4 @@
-### Oi eu sou o Badtheus (Matheus) ✌️
+### Oi eu sou o Matheus ✌️
 
 - 🌱 I’m currently learning HTML 5, CSS 3 and JavaScript !!
 - 💬 Ask me about anything 🙂
