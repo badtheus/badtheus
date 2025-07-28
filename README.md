@@ -6,6 +6,7 @@
 
 > 🧩 **Back-end:** Java | Spring Boot  
 > 🎨 **Front-end:** HTML | CSS | JavaScript  
+  > 📱 **Mobile:** Kotlin | Jetpack Compose
 
 🚀 I'm currently open to **job opportunities** and always looking to learn and grow in the tech world.
 
