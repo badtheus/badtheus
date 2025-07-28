@@ -1,9 +1,32 @@
-### Oi eu sou o Matheus ✌️
+## 👋 Hey! I'm Matheus Lima.
 
-- 🌱 I’m currently learning HTML 5, CSS 3, JavaScript and Java!!
-- 💬 Ask me about anything 🙂
-- 😄 Pronouns: He/Him // 🏳️‍🌈
-- ⚡ Fun fact: I'm a fan of music, pop culture, anime, and games.
+🎓 I'm a graduate in **Information Systems**, passionate about solving problems through technology.
+
+💼 I'm pursuing a career as a **Full Stack Developer**, with focus on:
+
+> 🧩 **Back-end:** Java | Spring Boot  
+> 🎨 **Front-end:** HTML | CSS | JavaScript  
+
+🚀 I'm currently open to **job opportunities** and always looking to learn and grow in the tech world.
+
+📁 In this GitHub profile, you'll find:
+
+- 💻 Projects from **online courses**
+- 🎓 Assignments and projects from **university**
+- 🧠 Personal **experiments and practice projects**
+
+---
+
+### ⚡ Fun Facts
+
+- 🎶 I’m a big fan of **music**, **pop culture**, **anime**, and **games**  
+- 😄 Pronouns: **He/Him** | 🏳️‍🌈  
+
+---
+
+📫 **Let's connect!**  
+Feel free to reach out or check out my projects!
+
 ##
 
 <div align="center">
